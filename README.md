@@ -1,12 +1,15 @@
 # inland
 
-A new Flutter project.
+this is the project that play radio mp3 link .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+cd clone
+flutter pub get
+flutter run
+then enjoy to play music or audio from your mp3 link
+the app have great UI, i created this project to show you how tocreate amzing future UI
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
